@@ -1,7 +1,8 @@
 ### Hi there, I'm [Charles-Maximilien Gros] 👋
 
 ## About me!
-I am a passionate software developer nearing completion of my studies in programming, with experience in creating web applications from database design to user interface. My goal is to design efficient and high-quality solutions to meet my clients' needs. I have had the opportunity to work on a variety of projects, and I am excited to continue gaining new skills and applying them to innovative projects.
+
+I am a passionate about programming and creating tailor-made technical solutions to meet the needs of businesses. Motivated and rigorous, I am committed to providing high-quality solutions. My goal is to actively contribute to the design, development, and implementation of innovative solutions, while continuously improving my technical skills.
 
 ### Connect with me:
 
